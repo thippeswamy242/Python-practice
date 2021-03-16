@@ -236,4 +236,4 @@ while (flag) : print ('Given flag is really true!')
 print ("Good bye")
 
 #Python for Loop Statements
-Today is tuesday
+
